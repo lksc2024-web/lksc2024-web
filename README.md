@@ -20,7 +20,7 @@ I work on **full stack web development**, **AI-assisted workflows and automation
 
 Through **ELKOVYN — Technology & Intelligence**, I explore how software, intelligent workflows, and digital design can work together.
 
-My AI and automation interests describe an area of practice and development; the public projects below specifically substantiate the web technologies and engineering approaches listed in this profile. I do not present unverified production AI deployments as completed work.
+I explore AI-assisted development and automation alongside the web engineering demonstrated in the public repositories below.
 
 ## Featured engineering work
 
@@ -40,7 +40,7 @@ My AI and automation interests describe an area of practice and development; the
 
 **Implementation:** A browser-based 3D car presentation with scroll-guided camera sequences and a live visual configurator for vehicle appearance.
 
-**Verified technologies:** HTML · Three.js · WebGL · 3D assets
+**Verified technologies:** HTML · JavaScript · Three.js · WebGL · 3D assets
 
 *Fictional showroom concept; not affiliated with the vehicle manufacturer.*
 
